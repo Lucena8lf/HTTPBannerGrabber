@@ -7,5 +7,5 @@ Tool for the AUTS course with the objective of creating a custom HTTP Banner Gra
 1. Run the script
 
 ```sh
-python http_banner_grabber.py
+python http_banner_grabber.py <host>
 ```
